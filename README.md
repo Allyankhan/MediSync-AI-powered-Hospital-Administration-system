@@ -224,7 +224,7 @@ A quick visual tour of MediSync in action.
 
 ### 💬 Chat Interface
 
-<img src="./docs/screenshots/chat-interface.png" alt="MediSync Chat Interface" width="800"/>
+<img src="./docs/screenshots/1.png" alt="MediSync Chat Interface" width="800"/>
 
 *The React-based chat UI handling a natural-language hospital query.*
 
@@ -232,7 +232,7 @@ A quick visual tour of MediSync in action.
 
 ### 🗃️ NL2SQL Query in Action
 
-<img src="./docs/screenshots/sql-agent.png" alt="NL2SQL Agent Response" width="800"/>
+<img src="./docs/screenshots/2.png" alt="NL2SQL Agent Response" width="800"/>
 
 *The agent verifying schema before executing a safe, parameterized SQL query.*
 
@@ -290,8 +290,8 @@ medisync/
 
 ## 👤 Author
 
-**Allyan Nawab Khan**
-*AI Engineer*
+**Allyan Khan**
+*Software Engineer*
 
 Interested in discussing this project, AI agent architecture, or collaboration opportunities? Let's connect.
 
