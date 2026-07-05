@@ -1,0 +1,21 @@
+# --- Core AI & Graph Framework ---
+langchain-core
+langchain-openai
+langchain-community
+langgraph
+typing_extensions
+
+# --- Database Integration ---
+mysql-connector-python
+
+# --- RAG & Document Processing ---
+# (Include these if your hospital assistant RAGs over PDFs or specific vector DBs)
+pypdf
+chromadb
+tiktoken
+
+# --- API Server ---
+# (If you are using FastAPI to connect your backend to your React frontend)
+fastapi
+uvicorn
+python-dotenv
