@@ -240,21 +240,13 @@ A quick visual tour of MediSync in action.
 
 ### 📅 Appointment Booking Flow
 
-<img src="./docs/screenshots/booking-flow.png" alt="Appointment Booking Flow" width="800"/>
+<img src="./docs/screenshots/3.png" alt="Appointment Booking Flow" width="800"/>
 
 *Conversational appointment booking, from intent to confirmed database entry.*
 
 <br/>
 
-### 🎥 Full Demo Recording
-
-[![Watch the Demo](./docs/screenshots/demo-thumbnail.png)](https://your-video-link-here.com)
-
-*Click the thumbnail above to watch a full walkthrough of MediSync — RAG queries, NL2SQL, and appointment booking end-to-end.*
-
 </div>
-
-> 💡 **Note:** Place your actual screenshot images inside a `docs/screenshots/` directory in your repo, and replace the demo link above with your hosted video (YouTube, Loom, or a GitHub-hosted `.mp4`/`.gif`). GitHub also renders `.gif` recordings directly inline if you prefer an animated walkthrough over a static thumbnail + link.
 
 ---
 
