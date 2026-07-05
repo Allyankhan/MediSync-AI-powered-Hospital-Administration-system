@@ -60,7 +60,11 @@ def get_table_schema(table_name: str):
 
 def book_appointment(patient_name: str, department: str, date: str, time: str):
     """
-    Books an appointment directly into the 'bookings' table in XAMPP/MySQL.
+    Executes the database INSERT to book a medical appointment.
+    CRITICAL INSTRUCTION: You MUST NOT call this tool unless the user has explicitly 
+    provided ALL four required parameters (patient_name, department, date, time). 
+    If any parameter is missing, DO NOT call this tool. Instead, ask the user to provide 
+    the missing information. Do not assume or generate fake names or times.
     """
     try:
         # Connect to your XAMPP MySQL server
