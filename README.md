@@ -29,6 +29,40 @@ For healthcare administrators, this translates directly into **reduced front-des
 The entire system is fully containerized, environment-isolated, and built to be deployed — not just demoed.
 
 ---
+## 📸 Screenshots & Demo
+
+A quick visual tour of MediSync in action.
+
+<div align="center">
+
+### 💬 Chat Interface
+
+<img src="./docs/screenshots/1.png" alt="MediSync Chat Interface" width="800"/>
+
+*The React-based chat UI handling a natural-language hospital query.*
+
+<br/>
+
+### 🗃️ NL2SQL Query in Action
+
+<img src="./docs/screenshots/2.png" alt="NL2SQL Agent Response" width="800"/>
+
+*The agent verifying schema before executing a safe, parameterized SQL query.*
+
+<br/>
+
+### 📅 Appointment Booking Flow
+
+<img src="./docs/screenshots/3.png" alt="Appointment Booking Flow" width="800"/>
+
+*Conversational appointment booking, from intent to confirmed database entry.*
+
+<br/>
+
+</div>
+
+---
+
 
 ## ✨ Key Features
 
@@ -216,39 +250,6 @@ Behind the scenes, the LangGraph agent classifies each query's intent, invokes t
 
 ---
 
-## 📸 Screenshots & Demo
-
-A quick visual tour of MediSync in action.
-
-<div align="center">
-
-### 💬 Chat Interface
-
-<img src="./docs/screenshots/1.png" alt="MediSync Chat Interface" width="800"/>
-
-*The React-based chat UI handling a natural-language hospital query.*
-
-<br/>
-
-### 🗃️ NL2SQL Query in Action
-
-<img src="./docs/screenshots/2.png" alt="NL2SQL Agent Response" width="800"/>
-
-*The agent verifying schema before executing a safe, parameterized SQL query.*
-
-<br/>
-
-### 📅 Appointment Booking Flow
-
-<img src="./docs/screenshots/3.png" alt="Appointment Booking Flow" width="800"/>
-
-*Conversational appointment booking, from intent to confirmed database entry.*
-
-<br/>
-
-</div>
-
----
 
 ## 📂 Project Structure (Reference)
 
